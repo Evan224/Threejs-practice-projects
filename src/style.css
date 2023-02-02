@@ -10,3 +10,11 @@ body,
     background: ivory;
 
 }
+
+.htmlScreen iframe{
+    width:1024px;
+    height:700px;
+    border:none;
+    border-radius: 20px;
+    background:black;
+}
