@@ -1,0 +1,11 @@
+{
+    "name": "@monorepo-three/api",
+    "version": "1.0.0",
+    "description": "A very simple React button within a monorepo",
+    "main": "dist/monorepo-starter-button.cjs.js",
+    "module": "dist/monorepo-starter-button.esm.js",
+    "dependencies": {
+        "@preconstruct/cli": "^2.3.0",
+        "react": "^18.2.0"
+    }
+}
